@@ -36,50 +36,23 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ![image](https://user-images.githubusercontent.com/36288975/170623020-f27efc12-bb58-4f62-840d-af544ac6689e.png)
 
 ### PROCEDURE:
-
-
-
-
-
-
-
-
+open the roboanalyzer software.
+select the robot and its degrees of freedom.
+change the values of X and Y wherever necessary.
+simulate the model for inverse kinematics.
+plot the graph between the joints.
+update the DH parameters of the link configuration and end effector configuration.
 ### SIMULATION 
- 
- 
- 
- 
- 
- 
- 
+ ![170623671-ceac517c-d739-4f6d-9bbd-d655d8324e1d](https://user-images.githubusercontent.com/88670187/205495378-847b55da-e123-44ee-91e9-a2f6122e0f2a.jpg)
+ ![170623767-70f827a9-8de9-422e-9003-510f57f3e635](https://user-images.githubusercontent.com/88670187/205495381-f0b9d4bc-40fd-4530-9171-11bb787961db.jpg)
+ ![170623818-7cb4dee3-917f-4366-96ed-a9dbcd9865f8](https://user-images.githubusercontent.com/88670187/205495390-0bb18018-9462-48d4-82ec-b8cedb3f5d78.png)
+![170623849-7cb26533-3d12-4ebb-9faa-c8a1b162b0cf](https://user-images.githubusercontent.com/88670187/205495400-68dc5e02-b4db-48a8-939b-7560fadc96bd.png)
+
  ### PLOT 
+ ![170624053-ab1f4eb0-5579-451e-bd19-dacd4c098629](https://user-images.githubusercontent.com/88670187/205495402-288c8e79-c3d5-42ce-9ed9-4b5c0b5a8e78.png)
+ ![170624071-a8a118f1-3032-40f4-9014-2faf3055d9ee](https://user-images.githubusercontent.com/88670187/205495408-7fca049a-5c23-4226-8f38-2d8ccf0b6fc1.jpg)
+ ![170624191-a7f570a4-91de-4b50-b5ce-70e6441efae6](https://user-images.githubusercontent.com/88670187/205495416-c176732a-1cdd-4f7b-bd8a-85c5b65ca841.png)
+ ![170624205-059291ef-9ff5-4610-af0e-c1cc99181782](https://user-images.githubusercontent.com/88670187/205495425-be08d868-e789-4e26-8395-f3b42840bc3d.jpg)
+
+ ### RESULTS :  Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### RESULTS :  
