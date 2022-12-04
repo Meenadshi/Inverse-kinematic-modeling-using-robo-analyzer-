@@ -1,4 +1,4 @@
-# Inverse-kinematic-modeling-using-robo-analyzer-
+# EX.NO:3 Inverse-kinematic-modeling-using-robo-analyzer-
 
  
 ## AIM: 
